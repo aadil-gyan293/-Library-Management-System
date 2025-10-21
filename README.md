@@ -13,13 +13,6 @@ Library-Management-System/ │ ├── src/ │ └── com/library/ │ ├
 
 yaml Copy code
 
-Setup Instructions
-1. Clone the Repository
-git clone https://github.com/yourusername/Library-Management-System.git
-cd Library-Management-System
-2. Setup MySQL Database
-Open MySQL Workbench or command line.
-
 Run the SQL script:
 
 sql
